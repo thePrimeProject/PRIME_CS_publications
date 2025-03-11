@@ -1,4 +1,4 @@
-#List of publications under the PRIME project with Computer Science authors highlighted in bold:
+## List of publications under the PRIME project with Computer Science authors highlighted in bold:
 
 * **Rizvi, M., Baillie, L., Pang, W., Shahandashti, S., Yuan, Y., Ghosh, S., Lewinska, P., Chen, K., Edmondson, A., Anil Kumar, A. S., Jagadeesan, V. B., Jacob, F., & Dodd, C**. (2025). Carefully Connected - Towards Designing More Equitable Digital Services.
 
