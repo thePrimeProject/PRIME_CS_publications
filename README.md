@@ -9,5 +9,4 @@ List of Computer Science publications under the PRIME project
 
 * Islam, F., Bailey, S., **Rizvi, M.**, Netto, G., & Kukulska-Hulme, A. (2024). Racialised exclusions in digital healthcare: combining insights from narrative interviews and human computer interaction. BMJ Open, 14(Suppl 1), A9. https://doi.org/10.1136/bmjopen-2024-UCL-QHRN2024.23
 
-* Hasan, S, Netto, G, **Rizvi, M** & Menezes, D 2024, Advancing equitable outcomes through digital social housing for minoritised ethnic individuals..
-https://static1.squarespace.com/static/6356d6cd6b4b5e12e4efca82/t/67644a29efb031425958eaa2/1734625835275/PRIME+Housing+Policy+Briefing_DIGITAL.pdf
+* Hasan, S, Netto, G, **Rizvi, M** & Menezes, D 2024, Advancing equitable outcomes through digital social housing for minoritised ethnic individuals. https://researchportal.hw.ac.uk/en/publications/advancing-equitable-outcomes-through-digital-social-housing-for-m
