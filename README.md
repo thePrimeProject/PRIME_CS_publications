@@ -1,6 +1,6 @@
 ## List of publications under the PRIME project with Computer Science authors highlighted in bold:
 
-* **Rizvi, M., Baillie, L., Pang, W., Shahandashti, S., Yuan, Y., Ghosh, S., Lewinska, P., Chen, K., Edmondson, A., Anil Kumar, A. S., Jagadeesan, V. B., Jacob, F., & Dodd, C**. (2025). Carefully Connected - Towards Designing More Equitable Digital Services.
+* **Rizvi, M., Baillie, L., Pang, W., Shahandashti, S., Yuan, Y., Ghosh, S., Lewinska, P., Chen, K., Edmondson, A., Anil Kumar, A. S., Jagadeesan, V. B., Jacob, F., & Dodd, C**. (2025). Carefully Connected - Towards Designing More Equitable Digital Services. https://researchportal.hw.ac.uk/en/publications/carefully-connected-towards-designing-more-equitable-digital-serv
 
 * **Yuan, Y., Chen, K., Rizvi, M., Baillie, L., & Pang, W.** (2025). Quantifying the cross-sectoral intersecting discrepancies within multiple groups using latent class analysis towards fairness. arXiv. https://arxiv.org/abs/2407.03133 
 
