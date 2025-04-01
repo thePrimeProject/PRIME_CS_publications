@@ -2,7 +2,7 @@
 
 * **Rizvi, M., Baillie, L., Pang, W., Shahandashti, S., Yuan, Y., Ghosh, S., Lewinska, P., Chen, K., Edmondson, A., Anil Kumar, A. S., Jagadeesan, V. B., Jacob, F., & Dodd, C**. (2025). Carefully Connected - Towards Designing More Equitable Digital Services. https://researchportal.hw.ac.uk/en/publications/carefully-connected-towards-designing-more-equitable-digital-serv
 
-* **Yuan, Y., Chen, K., Rizvi, M., Baillie, L., & Pang, W.** (2025). Quantifying the cross-sectoral intersecting discrepancies within multiple groups using latent class analysis towards fairness. arXiv. https://arxiv.org/abs/2407.03133 
+* **Yuan, Y., Chen, K., Rizvi, M., Baillie, L., & Pang, W.** (2025). Quantifying the cross-sectoral intersecting discrepancies within multiple groups using latent class analysis towards fairness. arXiv. https://arxiv.org/abs/2407.03133 (Accepted for International Joint Conference on Neural Networks, IJCNN 2025) 
 
 * Islam, F., Bailey, S., **Rizvi, M.**, Netto, G., & Kukulska-Hulme, A. (2024). Racialised exclusions in digital healthcare: combining insights from narrative interviews and human computer interaction. BMJ Open, 14(Suppl 1), A9. https://doi.org/10.1136/bmjopen-2024-UCL-QHRN2024.23
 
