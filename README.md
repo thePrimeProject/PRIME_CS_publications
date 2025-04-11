@@ -9,3 +9,6 @@
 * Hasan, S, Netto, G, **Rizvi, M** & Menezes, D. (2024). Advancing equitable outcomes through digital social housing for minoritised ethnic individuals. https://researchportal.hw.ac.uk/en/publications/advancing-equitable-outcomes-through-digital-social-housing-for-m
 
 * Hasan, S., & **Yuan, Y.** (2023). Minority Ethnic Vulnerabilities in the Use of Digital Housing Services Across Age Groups. In ENHR Conference Proceedings - 2023 – June 28-30 - Lodz, Poland The European Network for Housing Research (ENHR). https://researchportal.hw.ac.uk/en/publications/minority-ethnic-vulnerabilities-in-the-use-of-digital-housing-ser 
+
+## List of public datasets under the PRIME project with Computer Science authors highlighted in bold:
+Netto, G., **Baillie, L., Pang, W., Shahandashti, S., Rizvi, M., Yuan, Y., Lewinska, P., Dodd, C.,** Islam, F., Hasan, S., Whyte, L. J., Song, J. (7 Apr 2025). PRIME Survey Dataset of Minoritised Ethnic People’s Engagement with Online Services. Heriot-Watt University. PRIME_Data(.zip). [10.17861/db813826-e45d-4274-b4c3-7ecdbf2336a5](https://doi.org/10.17861/db813826-e45d-4274-b4c3-7ecdbf2336a5)
